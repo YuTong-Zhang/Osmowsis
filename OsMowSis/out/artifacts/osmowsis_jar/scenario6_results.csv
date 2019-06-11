@@ -1,0 +1,134 @@
+Working Directory = /Users/juliazhang/IdeaProjects/OsMowSis/out/artifacts/osmowsis_jar
+scan
+grass, crater, crater, grass, grass, crater, grass, grass
+move,1,North
+ok
+scan
+grass, crater, crater, crater, empty, grass, grass, grass
+move,1,North
+ok
+scan
+fence, fence, crater, crater, empty, grass, grass, fence
+move,0,Southwest
+ok
+move,1,Southwest
+ok
+scan
+grass, empty, empty, empty, grass, grass, grass, crater
+move,1,Southwest
+ok
+scan
+grass, empty, grass, crater, grass, grass, crater, grass
+move,1,Southwest
+ok
+scan
+crater, empty, grass, grass, crater, fence, fence, fence
+move,0,East
+ok
+move,1,East
+ok
+scan
+empty, grass, crater, grass, grass, crater, empty, crater
+move,0,Northeast
+ok
+move,1,Northeast
+ok
+move,0,Southeast
+ok
+move,1,Southeast
+ok
+scan
+empty, crater, grass, crater, grass, grass, crater, empty
+move,0,East
+ok
+move,1,East
+ok
+scan
+crater, grass, crater, grass, crater, grass, empty, empty
+move,0,Northeast
+ok
+move,1,Northeast
+ok
+scan
+grass, fence, fence, fence, crater, empty, crater, crater
+move,0,North
+ok
+move,1,North
+ok
+scan
+grass, fence, fence, fence, empty, crater, crater, crater
+move,1,North
+ok
+scan
+fence, fence, fence, fence, empty, crater, crater, fence
+move,0,South
+ok
+move,1,South
+ok
+move,1,South
+ok
+move,0,Southwest
+ok
+move,1,Southwest
+ok
+move,1,Southwest
+ok
+scan
+empty, empty, crater, fence, fence, fence, grass, crater
+move,0,West
+ok
+move,2,West
+ok
+scan
+empty, crater, empty, fence, fence, fence, crater, empty
+move,0,North
+ok
+move,1,North
+ok
+move,1,North
+ok
+move,1,North
+ok
+scan
+crater, grass, empty, empty, empty, crater, grass, grass
+move,0,Northeast
+ok
+move,1,Northeast
+ok
+scan
+fence, fence, empty, empty, empty, empty, crater, fence
+move,0,Southwest
+ok
+move,1,Southwest
+ok
+move,0,West
+ok
+move,1,West
+ok
+scan
+grass, crater, empty, empty, crater, fence, fence, fence
+move,0,North
+ok
+move,1,North
+ok
+scan
+fence, fence, crater, empty, empty, fence, fence, fence
+move,0,Southeast
+ok
+move,1,Southeast
+ok
+move,0,East
+ok
+move,1,East
+ok
+move,0,Southeast
+ok
+move,1,Southeast
+ok
+move,1,Southeast
+ok
+move,1,Southeast
+ok
+scan
+crater, fence, fence, fence, fence, fence, crater, empty
+30,21,21,66
